@@ -1,6 +1,7 @@
 def earth():
     x = "Bangladesh"
     y = "Barbados"
+
     a = x > y 
     b = x < y 
 
